@@ -6,7 +6,7 @@
 - 🕵️ Social Engineer 
 
 ### Currently Learning 
-- Reverse Engineering
-- Hacking
-- C++
-- Python
+- 🔧Reverse Engineering
+- 🗡Hacking
+- 💉C++
+- 🐍Python
