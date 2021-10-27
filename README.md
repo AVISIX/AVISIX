@@ -3,7 +3,7 @@
 ### Skills 👾
 - 🤖 Algorithm Lover
 - 🔥 C# specialist 
-- 🕵️ Social Engineer 
+- 🕵️ OSINT Analyst
 
 ### Currently Learning 🧐
 - 🔧 Reverse Engineering
