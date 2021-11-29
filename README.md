@@ -13,5 +13,4 @@
 
 ### I hate 😡
 - 🤓 Skids 
-- 🤢 LinQ 
-- 🤮 Web Development 
+- 🤮 Frontend Development 
