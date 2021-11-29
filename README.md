@@ -2,7 +2,7 @@
 
 ### Skills 👾
 - 🤖 Algorithm Lover
-- 🔥 C# specialist 
+- 🔥 C# Expert 
 
 ### Currently Learning 🧐
 - 🌚 OSINT 
