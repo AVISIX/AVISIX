@@ -3,6 +3,7 @@
 ### Skills 👾
 - 🤖 Algorithmic Prodigy
 - 🔥 C# Expert 
+- 🪄 ReGex enjoyer 
 
 ### Currently Learning 🧐
 - 🌚 OSINT 
