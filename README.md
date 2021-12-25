@@ -3,7 +3,7 @@
 ### Skills 👾
 - 🤖 Algorithmic Prodigy
 - 🔥 C# Expert 
-- 🪄 ReGex enjoyer 
+- 🪄 RegEx enjoyer 
 
 ### Currently Learning 🧐
 - 🌚 OSINT 
