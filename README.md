@@ -1,7 +1,7 @@
 ### Hello World. 😎
 
 ### Skills 👾
-- 🤖 Algorithm Lover
+- 🤖 Algorithmic Prodigy
 - 🔥 C# Expert 
 
 ### Currently Learning 🧐
