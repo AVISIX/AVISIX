@@ -8,7 +8,7 @@
 ### Currently Learning 🧐
 - 🌚 OSINT 
 - 🔧 Reverse Engineering
-- 🗡 Hacking
+- 🦾 TensorFlow
 - 💉 C++
 - 🐍 Python
 
