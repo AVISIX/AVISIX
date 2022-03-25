@@ -14,4 +14,3 @@
 
 ### I hate 😡
 - 🤓 Skids 
-- 🤮 Frontend Development 
