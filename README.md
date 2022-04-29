@@ -4,13 +4,13 @@
 - 🤖 Algorithmic Prodigy
 - 🔥 C# Expert 
 - 🪄 RegEx enjoyer 
+- 🌚 Pretty good at OSINT 
+- 🐍 Python
 
 ### Currently Learning 🧐
-- 🌚 OSINT 
 - 🔧 Reverse Engineering
 - 🦾 TensorFlow
 - 💉 C++
-- 🐍 Python
 
 ### I hate 😡
 - 🤓 Skids 
