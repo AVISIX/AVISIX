@@ -1,10 +1,10 @@
 ### Hello World. 😎
 
-### Skills 👾
-- 🤖 Algorithmic Prodigy
+### Skills & Interests 👾
+- 🤖 Algorithmic thinker
 - 🔥 C# Expert 
 - 🪄 RegEx enjoyer 
-- 🌚 Pretty good at OSINT 
+- 🌚 OSINT connoisseur 
 - 🐍 Python
 
 ### Currently Learning 🧐
