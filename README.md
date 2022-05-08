@@ -9,7 +9,7 @@
 
 ### Currently Learning 🧐
 - 🔧 Reverse Engineering
-- 🦾 TensorFlow
+- 🦾 Machine Learning 
 - 💉 C++
 
 ### I hate 😡
