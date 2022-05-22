@@ -8,7 +8,7 @@
 - 🐍 Python
 
 ### Currently Learning 🧐
-- 🔧 Reverse Engineering
+- 🔧 Reverse Engineering & Gamehacking with .Net/C#
 - 🦾 Machine Learning 
 - 💉 C++
 
