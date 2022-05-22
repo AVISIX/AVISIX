@@ -8,9 +8,9 @@
 - 🐍 Python
 
 ### Currently Learning 🧐
-- 🔧 Reverse Engineering & Gamehacking with .Net/C#
+- 🔧 Reverse Engineering 
 - 🦾 Machine Learning 
-- 💉 C++
+- 🗡️ Gamehacking 
 
 ### I hate 😡
 - 🤓 Skids 
