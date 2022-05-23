@@ -18,6 +18,7 @@ The majority of my public repositories aren't really that interesting, but if yo
 - 🔧 Reverse Engineering 
 - 🦾 Machine Learning 
 - 🗡️ Gamehacking 
+- 🪟 Windows Internals
 
 ### I hate 😡
 - 🤓 Skids 
