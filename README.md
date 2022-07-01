@@ -14,7 +14,7 @@ The majority of my public repositories aren't really that interesting, but if yo
 - 🌚 OSINT connoisseur 
 - 🐍 Python
 
-### Currently Learning 🧐
+### Currently ~~Pasting~~ *Learning* 🧐
 - 🔧 Reverse Engineering 
 - 🦾 Machine Learning 
 - 🗡️ Gamehacking 
