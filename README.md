@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hello, World! :sunglasses:
 
-<!--
-**AVISIX/AVISIX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is **Avi** or **Six**. 
+I'm a young and passionate mostly self-taught software engineer, who specializes in .NET. 
+I started coding with 11-12~ and have been coding ever since, developing and learning new projects and interests on an almost daily basis.
+I'm fully employed and spend my free time learning, coding & researching about new topics that might interest me. 
 
-Here are some ideas to get you started:
+Most of my repositories are set to private and my public ones aren't really that interesting, but if you want you can still have a look around :grin:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills & Interests :space_invader:
+- :fire: C# & .NET specialist
+- :robot: Complex algorithms  
+- :magic_wand: Regular expressions  
+- :new_moon_with_face: Open-source intelligence
+
+### Currently ~~Pasting~~ *Learning* :face_with_monocle:
+- :window: Windows Internals
+- :syringe: C++
+- :monkey: x86 Assembly
