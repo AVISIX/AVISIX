@@ -13,7 +13,7 @@ Most of my repositories are set to private and my public ones aren't really that
 - :magic_wand: Regular expressions  
 - :new_moon_with_face: Open-source intelligence
 
-### Currently ~~Pasting~~ *Learning* :face_with_monocle:
+### Currently ~~Pasting~~ *Learning* 🧐
 - :window: Windows Internals
 - :syringe: C++
 - :monkey: x86 Assembly
